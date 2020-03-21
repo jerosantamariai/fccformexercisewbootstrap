@@ -1,0 +1,31 @@
+body{
+    background: url(https://picsum.photos/1280/800/?blur=2) no-repeat center fixed !important;
+    min-height:100%;
+    background-size:cover;
+    box-shadow:inset 0 0 0 2000px rgba(102, 102, 172, 0.2);
+}
+
+.head{
+    background-color: transparent;
+    text-align: center;
+    padding: 30px;
+    color: white;
+}
+
+#survey-form{
+    background-color: transparent;
+    justify-content: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    min-height:100%;
+    background-size:cover;
+    box-shadow:inset 0 0 0 2000px rgba(40, 40, 71, 0.5);
+    color: white;
+    border-radius: 5px;
+    
+}
+
+.container .form-group{
+    margin-top: 20px;
+}
+
